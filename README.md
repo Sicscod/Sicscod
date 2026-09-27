@@ -20,6 +20,7 @@ New drop every day. Take it, change it, make it yours.
 | 01 | ✨ **Particle Portfolio** | Your name made of particles that scatter under your cursor | [live](https://sicscod.github.io/particle-portfolio/) | [repo](https://github.com/Sicscod/particle-portfolio) |
 | 02 | ❤️ **Terminal Heart** | A beating heart made of any name, right in your terminal | — | [repo](https://github.com/Sicscod/terminal-heart) |
 | 03 | 🐉 **Neon Dragon** | A glowing dragon that follows your finger or cursor | [live](https://sicscod.github.io/neon-dragon/) | [repo](https://github.com/Sicscod/neon-dragon) |
+| 04 | 💌 **Be Mine** | Ask your crush out. The No button runs away | [live](https://sicscod.github.io/be-mine/?name=Mia) | [repo](https://github.com/Sicscod/be-mine) |
 
 *More coming soon 👀*
 
