@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 09 | 🌹 [**3D Rose**](https://github.com/Sicscod/drops/tree/main/09-rose) | A particle rose that blooms for your person |
 | 08 | 🌌 [**Black Hole**](https://github.com/Sicscod/drops/tree/main/08-black-hole) | An Interstellar-style black hole. Drag it, tap to feed it |
 | 07 | ☕ [**late bean.**](https://github.com/Sicscod/drops/tree/main/07-late-bean) | A full coffee shop website: menu, bag, reviews, hours |
 | 06 | ✨ [**Written in the Stars**](https://github.com/Sicscod/drops/tree/main/06-written-in-the-stars) | Her name as a constellation |
