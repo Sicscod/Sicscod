@@ -15,19 +15,19 @@ New drop every day. Take it, change it, make it yours.
 
 ## 🎁 Drops
 
-### 👉 [Browse every drop with previews → sicscod.github.io/Sicscod](https://sicscod.github.io/Sicscod/)
+### 👉 [Browse every drop with previews → sicscod.github.io/drops](https://sicscod.github.io/drops/)
 
 Saw a drop in a video? Find it by its number.
 
 | # | Drop | What it is | Demo | Code |
 |---|------|-----------|------|------|
 | 01 | ✨ **Particle Portfolio** | Your name made of particles that scatter under your cursor | [live](https://sicscod.github.io/particle-portfolio/) | [repo](https://github.com/Sicscod/particle-portfolio) |
-| 02 | ❤️ **Terminal Heart** | A beating heart made of any name, right in your terminal | — | [repo](https://github.com/Sicscod/terminal-heart) |
+| 02 | ❤️ **Terminal Heart** | A beating heart made of any name, right in your terminal | — | [code](https://github.com/Sicscod/drops/tree/main/02-terminal-heart) |
 | 03 | 🐉 **Neon Dragon** | A glowing dragon that follows your finger or cursor | [live](https://sicscod.github.io/neon-dragon/) | [repo](https://github.com/Sicscod/neon-dragon) |
 | 04 | 💌 **Be Mine** | Ask your crush out. The No button runs away | [live](https://sicscod.github.io/be-mine/?name=Delly) | [repo](https://github.com/Sicscod/be-mine) |
-| 06 | ✨ **Written in the Stars** | Her name as a constellation | [live](https://sicscod.github.io/Sicscod/06-written-in-the-stars/?name=Delly) | [code](06-written-in-the-stars) |
-| 07 | ☕ **late bean.** | A full coffee shop website: menu, bag, reviews, hours | [live](https://sicscod.github.io/Sicscod/07-late-bean/) | [code](07-late-bean) |
-| 08 | 🌌 **Black Hole** | An Interstellar-style black hole. Drag it, tap to feed it | [live](https://sicscod.github.io/Sicscod/08-black-hole/) | [code](08-black-hole) |
+| 06 | ✨ **Written in the Stars** | Her name as a constellation | [live](https://sicscod.github.io/drops/06-written-in-the-stars/?name=Delly) | [code](https://github.com/Sicscod/drops/tree/main/06-written-in-the-stars) |
+| 07 | ☕ **late bean.** | A full coffee shop website: menu, bag, reviews, hours | [live](https://sicscod.github.io/drops/07-late-bean/) | [code](https://github.com/Sicscod/drops/tree/main/07-late-bean) |
+| 08 | 🌌 **Black Hole** | An Interstellar-style black hole. Drag it, tap to feed it | [live](https://sicscod.github.io/drops/08-black-hole/) | [code](https://github.com/Sicscod/drops/tree/main/08-black-hole) |
 
 *More coming soon 👀*
 
