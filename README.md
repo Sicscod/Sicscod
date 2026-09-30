@@ -17,26 +17,26 @@ New drop every day. Take it, change it, make it yours.
 
 ### 👉 [Browse every drop with previews → sicscod.github.io/drops](https://sicscod.github.io/drops/)
 
-Saw a drop in a video? Find it by its number.
+All free code from my videos lives in one repo: **[Sicscod/drops](https://github.com/Sicscod/drops)**. Saw a drop in a video? Find it there by its number.
 
-| # | Drop | What it is | Demo | Code |
-|---|------|-----------|------|------|
-| 01 | ✨ **Particle Portfolio** | Your name made of particles that scatter under your cursor | [live](https://sicscod.github.io/particle-portfolio/) | [repo](https://github.com/Sicscod/particle-portfolio) |
-| 02 | ❤️ **Terminal Heart** | A beating heart made of any name, right in your terminal | — | [code](https://github.com/Sicscod/drops/tree/main/02-terminal-heart) |
-| 03 | 🐉 **Neon Dragon** | A glowing dragon that follows your finger or cursor | [live](https://sicscod.github.io/neon-dragon/) | [repo](https://github.com/Sicscod/neon-dragon) |
-| 04 | 💌 **Be Mine** | Ask your crush out. The No button runs away | [live](https://sicscod.github.io/be-mine/?name=Delly) | [repo](https://github.com/Sicscod/be-mine) |
-| 06 | ✨ **Written in the Stars** | Her name as a constellation | [live](https://sicscod.github.io/drops/06-written-in-the-stars/?name=Delly) | [code](https://github.com/Sicscod/drops/tree/main/06-written-in-the-stars) |
-| 07 | ☕ **late bean.** | A full coffee shop website: menu, bag, reviews, hours | [live](https://sicscod.github.io/drops/07-late-bean/) | [code](https://github.com/Sicscod/drops/tree/main/07-late-bean) |
-| 08 | 🌌 **Black Hole** | An Interstellar-style black hole. Drag it, tap to feed it | [live](https://sicscod.github.io/drops/08-black-hole/) | [code](https://github.com/Sicscod/drops/tree/main/08-black-hole) |
+| # | Drop | What it is |
+|---|------|-----------|
+| 08 | 🌌 [**Black Hole**](https://github.com/Sicscod/drops/tree/main/08-black-hole) | An Interstellar-style black hole. Drag it, tap to feed it |
+| 07 | ☕ [**late bean.**](https://github.com/Sicscod/drops/tree/main/07-late-bean) | A full coffee shop website: menu, bag, reviews, hours |
+| 06 | ✨ [**Written in the Stars**](https://github.com/Sicscod/drops/tree/main/06-written-in-the-stars) | Her name as a constellation |
+| 04 | 💌 [**Be Mine**](https://github.com/Sicscod/drops/tree/main/04-be-mine) | Ask your crush out. The No button runs away |
+| 03 | 🐉 [**Neon Dragon**](https://github.com/Sicscod/drops/tree/main/03-neon-dragon) | A glowing dragon that follows your finger or cursor |
+| 02 | ❤️ [**Terminal Heart**](https://github.com/Sicscod/drops/tree/main/02-terminal-heart) | A beating heart made of any name, right in your terminal |
+| 01 | ✨ [**Particle Portfolio**](https://github.com/Sicscod/drops/tree/main/01-particle-portfolio) | Your name made of particles that scatter under your cursor |
 
-*More coming soon 👀*
+**How to use a drop:** open its folder, download `index.html`, edit the `CONFIG` block at the top, publish for free with GitHub Pages or Vercel. Every drop has its own README.
 
-## ⚡ How to use a drop
-1. Open the drop's folder (or repo) → download `index.html`
-2. Open `index.html`, edit the `CONFIG` block at the top
-3. Publish for free with **GitHub Pages** (Settings → Pages) or **Vercel**
+## 🧑‍💻 My projects
 
-Every drop has its own README with step-by-step instructions.
+| Project | What it is |
+|---------|-----------|
+| 🇰🇿 [**Kazakhstan · Great Steppe**](https://github.com/Sicscod/kazakhstan) | A 9-slide presentation website about Kazakhstan |
+| 🏪 [**demo**](https://github.com/Sicscod/demo) | Demo websites for businesses |
 
 ## 🛠 Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
