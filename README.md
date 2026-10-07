@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 15 | 🌊 [**Ripples**](https://github.com/Sicscod/drops/tree/main/15-ripples) | Water ripples that bend a neon word |
 | 14 | 💻 [**Delly.dev**](https://github.com/Sicscod/drops/tree/main/14-portfolio) | A full developer portfolio with a terminal intro |
 | 13 | 👟 [**Sneaker Drop**](https://github.com/Sicscod/drops/tree/main/13-sneaker-drop) | A full sneaker release store |
 | 12 | 💗 [**Love Meter**](https://github.com/Sicscod/drops/tree/main/12-love-meter) | A love meter that only goes up |
