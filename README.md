@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 17 | 🎟️ [**Afterglow**](https://github.com/Sicscod/drops/tree/main/17-afterglow) | Full event / festival website |
 | 16 | 🎧 [**Our Song**](https://github.com/Sicscod/drops/tree/main/16-our-song) | A music player that only plays your song |
 | 15 | 🌊 [**Ripples**](https://github.com/Sicscod/drops/tree/main/15-ripples) | Water ripples that bend a neon word |
 | 14 | 💻 [**Delly.dev**](https://github.com/Sicscod/drops/tree/main/14-portfolio) | A full developer portfolio with a terminal intro |
