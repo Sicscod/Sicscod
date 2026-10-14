@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 24 | 🌸 [**Blossom**](https://github.com/Sicscod/drops/tree/main/24-blossom) | A cherry tree whose petals spell her name |
 | 23 | 💗 [**Neon Sign**](https://github.com/Sicscod/drops/tree/main/23-neon-sign) | Her name as a neon sign |
 | 22 | 🥠 [**Fortune Cookie**](https://github.com/Sicscod/drops/tree/main/22-fortune-cookie) | A fortune cookie with a rigged last fortune |
 | 21 | 💫 [**Two Stars**](https://github.com/Sicscod/drops/tree/main/21-two-stars) | Two stars that merge into a heart |
