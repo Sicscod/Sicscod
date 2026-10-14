@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 20 | 💌 [**Open When**](https://github.com/Sicscod/drops/tree/main/20-open-when) | Open-when letters for your person |
 | 19 | 🎆 [**Fireworks**](https://github.com/Sicscod/drops/tree/main/19-fireworks) | Fireworks that write her name |
 | 18 | ⏳ [**Sand**](https://github.com/Sicscod/drops/tree/main/18-sand) | Satisfying falling-sand simulation |
 | 17 | 🎟️ [**Afterglow**](https://github.com/Sicscod/drops/tree/main/17-afterglow) | Full event / festival website |
