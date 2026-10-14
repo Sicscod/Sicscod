@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 22 | 🥠 [**Fortune Cookie**](https://github.com/Sicscod/drops/tree/main/22-fortune-cookie) | A fortune cookie with a rigged last fortune |
 | 21 | 💫 [**Two Stars**](https://github.com/Sicscod/drops/tree/main/21-two-stars) | Two stars that merge into a heart |
 | 20 | 💌 [**Open When**](https://github.com/Sicscod/drops/tree/main/20-open-when) | Open-when letters for your person |
 | 19 | 🎆 [**Fireworks**](https://github.com/Sicscod/drops/tree/main/19-fireworks) | Fireworks that write her name |
