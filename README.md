@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 28 | 🌧️ [**Foggy Window**](https://github.com/Sicscod/drops/tree/main/28-foggy-window) | fogged window that writes her name |
 | 27 | 💌 [**Scratch Card**](https://github.com/Sicscod/drops/tree/main/27-scratch-card) | scratch card that wins her a date |
 | 26 | 📸 [**Polaroids**](https://github.com/Sicscod/drops/tree/main/26-polaroids) | Polaroids that develop into your memories |
 | 25 | ✈️ [**Until I See You**](https://github.com/Sicscod/drops/tree/main/25-until-i-see-you) | Long-distance countdown on a night globe |
