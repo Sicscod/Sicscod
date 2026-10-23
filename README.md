@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 30 | 🎡 [**Date Wheel**](https://github.com/Sicscod/drops/tree/main/30-date-wheel) | rigged date wheel |
 | 29 | ❤️ [**Heartbeat**](https://github.com/Sicscod/drops/tree/main/29-heartbeat) | heart monitor that writes her name |
 | 28 | 🌧️ [**Foggy Window**](https://github.com/Sicscod/drops/tree/main/28-foggy-window) | fogged window that writes her name |
 | 27 | 💌 [**Scratch Card**](https://github.com/Sicscod/drops/tree/main/27-scratch-card) | scratch card that wins her a date |
