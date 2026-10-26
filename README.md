@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 32 | 🕯️ [**Make a Wish**](https://github.com/Sicscod/drops/tree/main/32-make-a-wish) | candles whose smoke writes her name |
 | 31 | 🫧 [**Bubble Wrap**](https://github.com/Sicscod/drops/tree/main/31-bubble-wrap) | bubble wrap that spells her name |
 | 30 | 🎡 [**Date Wheel**](https://github.com/Sicscod/drops/tree/main/30-date-wheel) | rigged date wheel |
 | 29 | ❤️ [**Heartbeat**](https://github.com/Sicscod/drops/tree/main/29-heartbeat) | heart monitor that writes her name |
