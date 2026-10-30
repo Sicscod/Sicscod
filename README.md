@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 36 | 🖋️ [**Ink Drop**](https://github.com/Sicscod/drops/tree/main/36-ink-drop) | ink that blooms into her name |
 | 35 | 🔒 [**Love Lock**](https://github.com/Sicscod/drops/tree/main/35-love-lock) | love lock with your date |
 | 34 | 📝 [**Cootie Catcher**](https://github.com/Sicscod/drops/tree/main/34-cootie-catcher) | rigged paper fortune teller |
 | 33 | 🧲 [**Fridge Magnets**](https://github.com/Sicscod/drops/tree/main/33-fridge-magnets) | fridge magnets that spell her name |
