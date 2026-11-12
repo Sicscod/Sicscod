@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 40 | 🌼 [**Loves Me Not**](https://github.com/Sicscod/drops/tree/main/40-loves-me-not) | rigged daisy that always ends on loves me |
 | 39 | 🔴 [**Don't Press**](https://github.com/Sicscod/drops/tree/main/39-dont-press) | red button that self-destructs when you press it |
 | 38 | ✈️ [**Paper Plane**](https://github.com/Sicscod/drops/tree/main/38-paper-plane) | note folds into a plane and draws a heart |
 | 37 | 🔴 [**Laser Cat**](https://github.com/Sicscod/drops/tree/main/37-laser-cat) | cat chases your laser dot, pounces, bonks the wall |
