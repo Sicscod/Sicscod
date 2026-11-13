@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 42 | 🧸 [**Claw Machine**](https://github.com/Sicscod/drops/tree/main/42-claw-machine) | rigged claw machine that wins her heart |
 | 41 | 🐉 [**Tiny Dragon**](https://github.com/Sicscod/drops/tree/main/41-tiny-dragon) | baby dragon that roasts the bug in your code |
 | 40 | 🌼 [**Loves Me Not**](https://github.com/Sicscod/drops/tree/main/40-loves-me-not) | rigged daisy that always ends on loves me |
 | 39 | 🔴 [**Don't Press**](https://github.com/Sicscod/drops/tree/main/39-dont-press) | red button that self-destructs when you press it |
