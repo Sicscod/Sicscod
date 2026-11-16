@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 45 | 🔥 [**Friday Deploy**](https://github.com/Sicscod/drops/tree/main/45-friday-deploy) | Deploy button that panics on Friday |
 | 44 | 💾 [**love.exe**](https://github.com/Sicscod/drops/tree/main/44-love-installer) | Installer that installs love |
 | 43 | 🦆 [**Rubber Duck**](https://github.com/Sicscod/drops/tree/main/43-rubber-duck) | Rubber duck that fixes your bug |
 | 42 | 🧸 [**Claw Machine**](https://github.com/Sicscod/drops/tree/main/42-claw-machine) | rigged claw machine that wins her heart |
