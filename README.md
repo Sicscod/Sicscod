@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 48 | 🤖 [**Love Captcha**](https://github.com/Sicscod/drops/tree/main/48-love-captcha) | Captcha that proves you're in love |
 | 47 | 🪲 [**Semicolon Hunt**](https://github.com/Sicscod/drops/tree/main/47-semicolon-hunt) | Swat the missing semicolon |
 | 46 | 📶 [**Heart Wi-Fi**](https://github.com/Sicscod/drops/tree/main/46-heart-wifi) | Wi-Fi that connects with a heart |
 | 45 | 🔥 [**Friday Deploy**](https://github.com/Sicscod/drops/tree/main/45-friday-deploy) | Deploy button that panics on Friday |
