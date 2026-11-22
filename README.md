@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 51 | 🐹 [**Infinite Loop**](https://github.com/Sicscod/drops/tree/main/51-infinite-loop) | Hamster in a while(true) loop |
 | 50 | 🔋 [**Love Charger**](https://github.com/Sicscod/drops/tree/main/50-love-charger) | Battery charged by love |
 | 49 | 🥊 [**Merge Conflict**](https://github.com/Sicscod/drops/tree/main/49-merge-conflict) | Merge conflict sumo fight |
 | 48 | 🤖 [**Love Captcha**](https://github.com/Sicscod/drops/tree/main/48-love-captcha) | Captcha that proves you're in love |
