@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 53 | 🧛 [**Light Mode**](https://github.com/Sicscod/drops/tree/main/53-light-mode) | Vampire dev vs light mode |
 | 52 | 💔 [**Ctrl+Z Us**](https://github.com/Sicscod/drops/tree/main/52-undo-us) | Ctrl+Z your fight |
 | 51 | 🐹 [**Infinite Loop**](https://github.com/Sicscod/drops/tree/main/51-infinite-loop) | Hamster in a while(true) loop |
 | 50 | 🔋 [**Love Charger**](https://github.com/Sicscod/drops/tree/main/50-love-charger) | Battery charged by love |
