@@ -21,6 +21,7 @@ All free code from my videos lives in one repo: **[Sicscod/drops](https://github
 
 | # | Drop | What it is |
 |---|------|-----------|
+| 55 | 📦 [**npm install**](https://github.com/Sicscod/drops/tree/main/55-npm-install) | node_modules heavier than the sun 📦 |
 | 54 | ☀️ [**Love Forecast**](https://github.com/Sicscod/drops/tree/main/54-love-forecast) | weather app: alone −12°, with them 36.6° ☀️ |
 | 53 | 🧛 [**Light Mode**](https://github.com/Sicscod/drops/tree/main/53-light-mode) | Vampire dev vs light mode |
 | 52 | 💔 [**Ctrl+Z Us**](https://github.com/Sicscod/drops/tree/main/52-undo-us) | Ctrl+Z your fight |
